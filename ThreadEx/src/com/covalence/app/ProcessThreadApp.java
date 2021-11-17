@@ -14,6 +14,8 @@ public class ProcessThreadApp {
 		new MyThread(p, "Threads");
 		new MyThread(p, "by");
 		new MyThread(p, "Kishor");
+		
+		System.out.println("Thank you !!!");
 
 	}
 
